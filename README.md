@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Casey Otieno
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me otienocasey001@gmail.com@
+- 💞️ I’m looking to collaborate on data related projects
+- 📫 How to reach me otienocasey001@gmail.com
 
 
 <!---
