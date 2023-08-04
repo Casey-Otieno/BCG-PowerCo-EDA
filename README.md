@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Casey Otieno
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on data related projects
-- 📫 How to reach me otienocasey001@gmail.com
-
+The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data and the AD wants you to perform some exploratory data analysis.
 
 <!---
 Case-spec/Case-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
